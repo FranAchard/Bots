@@ -1,0 +1,19 @@
+Chatbot de atención al cliente: Puedes desarrollar un chatbot que interactúe con los usuarios en tu sitio web y responda preguntas frecuentes, proporcione asistencia básica o dirija a los usuarios al departamento de soporte adecuado.
+
+Bot de programación: Crea un bot que permita a los usuarios escribir y probar código en varios lenguajes de programación directamente en tu sitio web, proporcionando retroalimentación en tiempo real.
+
+Bot de recomendación: Desarrolla un bot que haga recomendaciones personalizadas a los usuarios, como películas, libros, música o productos, basándose en sus preferencias anteriores.
+
+Bot de recordatorios y tareas: Crea un bot que permita a los usuarios establecer recordatorios y administrar sus tareas pendientes, enviando notificaciones cuando sea necesario.
+
+Bot de traducción: Desarrolla un bot que permita a los usuarios traducir texto de un idioma a otro de manera instantánea.
+
+Bot de análisis de sentimiento: Crea un bot que analice el sentimiento de un texto proporcionado por el usuario, determinando si es positivo, negativo o neutral.
+
+Bot de generación de contenido: Desarrolla un bot que genere contenido automáticamente, como párrafos de texto, leyendas de imágenes o incluso código HTML/CSS básico.
+
+Bot de aprendizaje interactivo: Crea un bot que enseñe a los usuarios sobre un tema específico a través de interacciones interactivas, como cuestionarios y explicaciones paso a paso.
+
+Bot de seguimiento de precios: Desarrolla un bot que rastree los precios de productos en línea y notifique a los usuarios cuando haya descuentos o cambios en los precios.
+
+Bot de recomendaciones de viaje: Crea un bot que ayude a los usuarios a planificar sus viajes, proporcionando información sobre destinos, vuelos, hoteles y actividades.
